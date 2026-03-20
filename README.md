@@ -34,7 +34,7 @@ nexus_sentinel.py: Módulo de segurança e integridade de processos.
 
 Clone este repositório:
 
-git clone: https://github.com/adrianasousa-dev/nexus-ai-command-center.git
+git clone [https://github.com/adrianasousa-dev/nexus-ai-command-center.git](https://github.com/adrianasousa-dev/nexus-ai-command-center.git)
 
 
 Certifique-se de ter o Python 3.x instalado no PATH do sistema.
